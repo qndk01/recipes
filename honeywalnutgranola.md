@@ -1,11 +1,11 @@
-#H2 Honey & Walnut Granola - small batch
+# Honey & Walnut Granola - small batch
 
-#####H5 Base:
+##### Base:
 1 1/2 cups rolled oats (not quick cooking)
 1/2 cup rye flakes or spelt flakes
 1/8 cup quinoa flakes (optional)
 
-#####H5 fats & sweetener:
+##### fats & sweetener:
 20ml vegetable oil
 20ml melted coconut oil or butter
 1/8 cup + 1 Tbsp sugar (white, demerra or brown)
@@ -13,13 +13,13 @@
 2 tsp. vanilla
 pinch of salt
 
-#####H5 dried nuts & fruits:
+##### dried nuts & fruits:
 1/4 cup pepitas
 3/4 cup chopped walnuts
 1/2 cup chopped dried pear or apple
 
 
-####4 Instructions
+#### Instructions
 Pre-heat oven to 165C/325F
 1. mix the base together in a large bowl, set aside
 2. Put all the fats & sweeteners (oils, sugar, honey, vanilla & salt) into a small saucepan over medium heat on the burner until sugar has melted. 

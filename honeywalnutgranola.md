@@ -1,22 +1,22 @@
 # Honey & Walnut Granola - small batch
 
 ##### Base:
-1 1/2 cups rolled oats (not quick cooking)
-1/2 cup rye flakes or spelt flakes
-1/8 cup quinoa flakes (optional)
+1 1/2 cups rolled oats (not quick cooking)  
+1/2 cup rye flakes or spelt flakes  
+1/8 cup quinoa flakes (optional)  
 
 ##### fats & sweetener:
-20ml vegetable oil
-20ml melted coconut oil or butter
-1/8 cup + 1 Tbsp sugar (white, demerra or brown)
-4 Tbsp. honey
-2 tsp. vanilla
-pinch of salt
+20ml vegetable oil  
+20ml melted coconut oil or butter  
+1/8 cup + 1 Tbsp sugar (white, demerra or brown)  
+4 Tbsp. honey  
+2 tsp. vanilla  
+pinch of sa  
 
 ##### dried nuts & fruits:
-1/4 cup pepitas
-3/4 cup chopped walnuts
-1/2 cup chopped dried pear or apple
+1/4 cup pepitas  
+3/4 cup chopped walnuts  
+1/2 cup chopped dried pear or apple  
 
 
 #### Instructions
